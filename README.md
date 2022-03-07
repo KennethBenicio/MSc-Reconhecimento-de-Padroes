@@ -1,12 +1,16 @@
 # Trabalhos desenvolvidos ao longo da disciplina de Reconhecimento de Padrões junto ao curso de Mestrado em Engenharia de Teleinformática.
 
-# ~/Lista Computacional 01: 
+# ~/Listas:
+Relatórios gerados em látex comentando os resultados pedidos nos trabalhos.
+
+
+# ~/Códigos/Lista Computacional 01: 
 covariancia.m >>> Módulo de funções para cálculo da covariância.
 
 exercicio.m   >>> Função que gera todos os dados apresentados na LC 01.
 
 
-# ~/Lista Computacional 02:
+# ~/Códigos/Lista Computacional 02:
 classificadores.m >>> Módulo de funções para os diferentes algoritmos de classificação.
 
 classificadores_tabela >>> Código que gera diversas tabelas internamente ao matlab e as converte para latex.
@@ -14,7 +18,7 @@ classificadores_tabela >>> Código que gera diversas tabelas internamente ao mat
 classificadores_classes >>> Código para criação de tabelas de estatísticas descritivas das classes do conjunto de dados (Antes da etapa de classificação).
 
 
-# ~/Lista Computacional 03:
+# ~/Códigos/Lista Computacional 03:
 clusterizacao.m >>> Módulo de funções com algoritmos de clusterização de dados.
 
 clusterizacao_kopt.m >>> Código para a obtenção do valor ótimo para o número de clusters. Apresento aqui dois procedimento: O primeiro, que não foi utilizado no relátorio mas apresenta-se funcional, é baseado no cálculo da moda apos um determinado número de repetições dos algoritmos. O segundo, recomendado pelo professor, é um procedimento simples de Monte Carlo para a obtenção do comportamento médio considerando um determinado número de rodadas.
