@@ -23,5 +23,5 @@ clusterizacao_kopt.m >>> Código para a obtenção do valor ótimo para o númer
 
 clusterizacao_tabelas.m >>> Código que gera diversas tabelas internamente ao matlab e as converte para latex.
 
-obs1: Todos os outros arquivos que não foram citados são gerados automaticamente pelas rotinas criadas.
+obs1: Todos os outros arquivos que não foram citados são gerados automaticamente pelas rotinas criadas. 
 obs2: Foram utilizados parcialmente os códigos disponibilizados na disciplina.
